@@ -34,3 +34,14 @@ Nama: Akhmad Nur Alamsyah
 ```
 <img src="screenshot/new-development.png">
 <img src="screenshot/net-new-development.png">
+
+4. Buat branch baru bernama featureB dan ubah README.md
+```
+    git checkout -b featureB
+    git add .
+    git commit -m "added branch 'featureB'"
+    git push origin featureB
+```
+
+<img src="screenshot/new-featureB.png">
+<img src="screenshot/net-new-featureB.png">

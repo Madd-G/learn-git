@@ -23,5 +23,5 @@ Nama: Akhmad Nur Alamsyah
 ```
 
 <img src="screenshot/main-modified.png">
-<img src="screenshot/net-main-modified">
+<img src="screenshot/net-main-modified.png">
 

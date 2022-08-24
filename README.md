@@ -91,4 +91,7 @@ maka file/code yang hilang akan kembali muncul, akan tetapi terkadang menyebabka
     git pull origin development
 ```
 
-<img src="screenshot/net-pull-development-into-main.png"> <br>
+#### Karena beberapa kali ada perubahan dalam tiap branch maka menjadi panjang seperti berikut.
+<img src="screenshot/net-pull-development-into-main.png">
+
+<img src="screenshot/final.png">

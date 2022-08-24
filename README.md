@@ -35,7 +35,7 @@ Nama: Akhmad Nur Alamsyah
 <img src="screenshot/new-development.png">
 <img src="screenshot/net-new-development.png">
 
-4. Buat branch baru bernama branchA dan ubah README.md
+4. Buat branch baru bernama featureA dan ubah README.md
 ```
     git checkout -b featureA
     git add .

@@ -45,3 +45,23 @@ Nama: Akhmad Nur Alamsyah
 
 <img src="screenshot/new-featureA.png">
 <img src="screenshot/net-new-featureA.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Merge development dengan featureA dengan cara non fast forward
+```
+    git merge featureA --no-ff
+```
+
+<img src="screenshot/merge-featureA-into-development.png">
+<img src="screenshot/net-merge-featureA-into-development.png">

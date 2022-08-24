@@ -81,3 +81,14 @@ Nama: Akhmad Nur Alamsyah
 <img src="screenshot/net-merge-featureB-into-development.png"> <br>
 dibawah contoh stash
 melakukan stash
+
+8. Melakukan git stash
+```
+    git stash
+    code/file yang belum di add da commit akan hilang
+    edit code
+    git add .
+    git commit -m "apply stash"
+    git push origin development
+```
+

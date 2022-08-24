@@ -84,11 +84,11 @@ Nama: Akhmad Nur Alamsyah
 ```
 maka file/code yang hilang akan kembali muncul, akan tetapi terkadang menyebabkan conflict
 
-<img src="stash.png"> <br>
+<img src="screenshot/stash.png"> <br>
 
 9. Setelah projek selesai, maka melakukan pull dari branch development ke dalam main. (selesai)
 ```
     git pull origin development
 ```
 
-<img src="net-pull-development-into-main.png"> <br>
+<img src="screenshot/net-pull-development-into-main.png"> <br>

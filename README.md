@@ -76,4 +76,4 @@ Nama: Akhmad Nur Alamsyah
 <img src="screenshot/new-featureB.png">
 <img src="screenshot/net-new-featureB.png">
 
-7. Merge development dengan featureB dengan cara non fast forward dan terjadi konflik, diselesaikan dengan cara accept both (bisa juga recent atau incoming changes)
+7. Merge development dengan featureB dengan cara non fast forward dan terjadi konflik, diselesaikan dengan cara accept both (bisa juga recent atau incoming changes) 

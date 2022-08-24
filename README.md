@@ -12,7 +12,16 @@ Nama: Akhmad Nur Alamsyah
     git remote add origin https://github.com/Madd-G/learn-git.git
     git push -u origin main
 ```
-<img src="screenshot/new-repo.png" height=300 width=500>
-<img src="screenshot/net-new-repo.png" height=300 width 500>
+<img src="screenshot/new-repo.png" height=200 width=300>
+<img src="screenshot/net-new-repo.png" height=200 width 300>
 
+2. Modifikasi README.md pada main
+```
+    git add .
+    git commit -m "modified branch 'main'"
+    git push origin main
+```
+
+<img src="screenshot/main-modified.png">
+<img src="screenshot/net-main-modified">
 

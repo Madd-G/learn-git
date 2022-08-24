@@ -64,6 +64,7 @@ Nama: Akhmad Nur Alamsyah
 ```
 
 <img src="screenshot/net-merge-featureA-into-development.png">
+
 4. Buat branch baru bernama featureB dan ubah README.md
 ```
     git checkout -b featureB

@@ -63,5 +63,4 @@ Nama: Akhmad Nur Alamsyah
     git merge featureA --no-ff
 ```
 
-<img src="screenshot/merge-featureA-into-development.png">
 <img src="screenshot/net-merge-featureA-into-development.png">

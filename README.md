@@ -25,3 +25,12 @@ Nama: Akhmad Nur Alamsyah
 <img src="screenshot/main-modified.png">
 <img src="screenshot/net-main-modified.png">
 
+3. Buat branch baru bernama development dan ubah README.md
+```
+    git checkout -b development
+    git add .
+    git commit -m "added branch 'development'"
+    git push origin development
+```
+<img src="screenshot/new-development.png">
+<img src="screenshot/net-new-development.png">

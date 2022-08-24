@@ -80,3 +80,4 @@ Nama: Akhmad Nur Alamsyah
 ```
 <img src="screenshot/net-merge-featureB-into-development.png"> <br>
 dibawah contoh stash
+melakukan stash
